@@ -1,14 +1,9 @@
-/Debug
-/Release
-/acc.ncb
-/acc.opt
-/acc.plg
-/acc.exe
-/acc.sln
-/acc.suo
-/acc.vcproj
-/acc.vcproj.Christoph-PC.Christoph.user
-/l
-/log
-/t
-/zdefs.acs.orig
+# Directories created during compilation/linking
+Debug
+Release
+Intermediate
+
+# We don't want these folders
+*.suo
+*.sdf
+acc.exe
